@@ -19,8 +19,8 @@ import { TabsPage } from '../tabs/tabs';
 export class LoginPage {
 
   user={
-    email:"",
-    password:""
+    email:"robinpatyn@hotmail.com",
+    password:"wachtwoord"
   }
 
   constructor(
